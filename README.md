@@ -1,4 +1,4 @@
-# SPAIC-wonder_vision
+# SPAIC: Wonder Vision
 
 This project is named "Wonder Vision" because it contains multiple computer vision projects that we envision integrating into a comprehensive library for advanced computer vision.
 
